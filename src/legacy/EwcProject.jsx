@@ -1,0 +1,17 @@
+import React from 'react';
+import './ewc.css';
+export default function EwcProject({image,images,back,openImage}){
+ const section=(n,en,title,text)=><header className="ewc-heading"><span>{n} / {en}</span><div><h3>{title}</h3><p>{text}</p></div></header>;
+ const art=(n,cls='')=>image(32+n,cls);
+ return <article className="ewc-case">
+ <section className="ewc-hero"><img src={images[45].preview} alt="EWC 开幕式金色殿堂主视觉"/><div className="ewc-hero-copy"><span>ESPORTS WORLD CUP / STAGE CONCEPT</span><h2 id="project-title">EWC<span>电竞世界杯</span></h2><p>舞台概念设计</p><div className="ewc-hero-description">从悬浮几何到沉浸舞台，<br/>构建横跨历史、现实与赛博未来的开幕盛典。</div><div className="ewc-hero-actions"><button onClick={()=>document.getElementById('ewc-geometry').scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'})}>探索舞台概念 <span>→</span></button><button onClick={()=>openImage(45)}>查看封面全景 ↗</button></div></div><div className="ewc-hero-bottom"><span>GEOMETRY / NARRATIVE / SPECTACLE</span><span>进入舞台 ↓</span></div></section>
+ <section className="ewc-overview"><div className="ewc-heading"><span>01 / PROJECT OVERVIEW</span><h3>EWC 电竞世界杯舞台概念设计</h3></div><div className="ewc-intro"><h4>以几何为序，<br/>开启跨越时空的盛典。</h4><div><p>为EWC 电竞世界杯（Esports World Cup）开幕式整体舞台视觉概念设计。以倒金字塔 / 钻石棱台几何体，从单个悬浮舞台装置、环形阵列舞台装置为核心视觉符号，串联起完整叙事篇章。</p><p>设计打破传统赛事舞台边界，融合实景舞台、巨型虚拟影像、交响乐团、现场歌舞表演与粒子光影特效。将古老阿拉伯文明遗迹、现代都市、数字人工智能、史诗战斗场景与电竞竞技精神交织，打造一场横跨历史、现实与赛博未来的沉浸式开幕式。</p></div></div><div className="ewc-keywords">{['大型国际赛事开幕式','舞台概念设计','虚拟多媒体视觉','沉浸式舞美','电竞盛典','叙事性舞台','粒子光影艺术'].map(x=><span key={x}>{x}</span>)}</div></section>
+ <section id="ewc-geometry" className="ewc-chapter ewc-geometry">{section('02','GEOMETRIC LANGUAGE','一个形体，延伸为整个舞台。','从单个倒金字塔到环形阵列，以统一几何语言串联装置与空间。')}<div className="ewc-study">{art(0)}<div className="ewc-note"><span>DESIGN LANGUAGE / FORM STUDY</span><h4>倒金字塔<br/>钻石棱台<br/>环形阵列</h4><p>悬浮单元与重复阵列，构成贯穿叙事的核心视觉符号。</p></div></div></section>
+ <section className="ewc-chapter ewc-gold">{section('03','THE OPENING','殿堂启幕，倒数此刻。','以纵向光束与金色建筑秩序，建立开幕式的仪式感。')}<div className="ewc-pair">{art(15)}{art(14)}</div></section>
+ <section className="ewc-chapter ewc-silver">{section('04','FLOATING PERFORMANCE','让表演，发生在空中。','悬浮装置、人物与交响乐团共同展开多层次舞台空间。')}{art(3)}<div className="ewc-pair ewc-offset">{art(4)}{art(11)}</div>{art(6)}</section>
+ <section className="ewc-chapter ewc-gold">{section('05','CIVILIZATION & CITY','文明遗迹，连接现代都市。','将阿拉伯建筑意象、都市天际线与现场表演融合于同一叙事画卷。')}{art(8)}</section>
+ <section className="ewc-chapter ewc-digital">{section('06','DIGITAL INTELLIGENCE','当意识，被光唤醒。','巨型数字人、镜面几何与粒子光束，将空间引向赛博未来。')}{art(1)}<div className="ewc-digital-second"><div className="ewc-note"><span>VIRTUAL IMAGE / IMMERSIVE STAGE</span><h4>现实舞台，<br/>虚拟边界。</h4></div>{art(9)}</div></section>
+ <section className="ewc-chapter ewc-battle">{section('07','EPIC CONFRONTATION','竞技之火，点燃舞台。','以史诗战斗意象、炽热粒子与红色几何阵列，推动舞台情绪走向高潮。')}{art(5)}<div className="ewc-pair ewc-offset">{art(16)}{art(2)}</div></section>
+ <section className="ewc-chapter ewc-finale">{section('08','THE FINALE','万千光点，汇聚荣光。','从光束与金色阵列，到聚焦中央的舞台装置，以光的汇聚收束视觉叙事。')}{art(10)}{art(12,'ewc-finale-array')}<div className="ewc-final-object">{art(7)}<div className="ewc-note"><span>ONE STAGE / A WORLD OF POSSIBILITIES</span><h4>为竞技精神，<br/>构建一场盛典。</h4></div></div></section>
+ <footer className="lunar-end"><span>EWC 电竞世界杯舞台概念设计<small>ESPORTS WORLD CUP / STAGE CONCEPT</small></span><button onClick={back}>返回项目目录 ↗</button></footer></article>;
+}

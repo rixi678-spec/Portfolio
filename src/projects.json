@@ -1,0 +1,335 @@
+[
+  {
+    "id": "film-01",
+    "order": 1,
+    "title": "古城星语",
+    "subtitle": "VR 游戏 · AIGC 宣传片",
+    "image": "/assets/film-01/frame-07.webp",
+    "gallery": [
+      "/assets/film-01/frame-00.webp",
+      "/assets/film-01/frame-01.webp",
+      "/assets/film-01/frame-02.webp",
+      "/assets/film-01/frame-03.webp",
+      "/assets/film-01/frame-04.webp",
+      "/assets/film-01/frame-05.webp",
+      "/assets/film-01/frame-06.webp",
+      "/assets/film-01/frame-07.webp",
+      "/assets/film-01/frame-08.webp",
+      "/assets/film-01/frame-09.webp",
+      "/assets/film-01/frame-10.webp",
+      "/assets/film-01/frame-11.webp",
+      "/assets/film-01/frame-12.webp",
+      "/assets/film-01/frame-13.webp",
+      "/assets/film-01/frame-14.webp",
+      "/assets/film-01/frame-15.webp",
+      "/assets/film-01/frame-16.webp",
+      "/assets/film-01/frame-17.webp",
+      "/assets/film-01/frame-18.webp",
+      "/assets/film-01/frame-19.webp"
+    ],
+    "description": "新绛 VR 游戏《古城星语》AIGC 宣传视频\n以山西新绛古城为基底，结合 VR 游戏世界观，运用 AIGC 工具完成整套宣传视频创作。依托古城历史建筑、街巷风貌提炼视觉语言，通过 AI 生成场景、镜头画面，搭配分镜设计与剪辑调色、合成输出。打造沉浸式短片，传递古城人文底蕴与 VR 游戏的交互体验感。",
+    "videos": [
+      {
+        "title": "完整影片",
+        "src": "/api/media/film-01/episode-1-original/index.m3u8",
+        "duration": 111.3
+      }
+    ],
+    "placeholder": false
+  },
+  {
+    "id": "film-02",
+    "order": 2,
+    "title": "全域纷争",
+    "subtitle": "RTS 游戏 · AIGC 宣传片",
+    "image": "/assets/film-02/frame-13.webp",
+    "gallery": [
+      "/assets/film-02/frame-00.webp",
+      "/assets/film-02/frame-01.webp",
+      "/assets/film-02/frame-02.webp",
+      "/assets/film-02/frame-03.webp",
+      "/assets/film-02/frame-04.webp",
+      "/assets/film-02/frame-05.webp",
+      "/assets/film-02/frame-06.webp",
+      "/assets/film-02/frame-07.webp",
+      "/assets/film-02/frame-08.webp",
+      "/assets/film-02/frame-09.webp",
+      "/assets/film-02/frame-10.webp",
+      "/assets/film-02/frame-11.webp",
+      "/assets/film-02/frame-12.webp",
+      "/assets/film-02/frame-13.webp",
+      "/assets/film-02/frame-14.webp",
+      "/assets/film-02/frame-15.webp",
+      "/assets/film-02/frame-16.webp",
+      "/assets/film-02/frame-17.webp",
+      "/assets/film-02/frame-18.webp",
+      "/assets/film-02/frame-19.webp",
+      "/assets/film-02/frame-20.webp",
+      "/assets/film-02/frame-21.webp",
+      "/assets/film-02/frame-22.webp",
+      "/assets/film-02/frame-23.webp",
+      "/assets/film-02/frame-24.webp",
+      "/assets/film-02/frame-25.webp",
+      "/assets/film-02/frame-26.webp",
+      "/assets/film-02/frame-27.webp",
+      "/assets/film-02/frame-28.webp",
+      "/assets/film-02/frame-29.webp",
+      "/assets/film-02/frame-30.webp"
+    ],
+    "description": "《全域纷争》RTS 游戏｜AIGC 宣传片\n  为自研 RTS 游戏《全域纷争》打造 AIGC 宣传短片。基于游戏世界观、兵种设定与战场美术风格，利用 AIGC 生成战场场景、单位镜头与氛围画面，配合分镜设计、剪辑合成，快速呈现宏大的战争叙事，展现 RTS 游戏的策略对抗与战场沉浸感。",
+    "videos": [
+      {
+        "title": "完整影片",
+        "src": "/api/media/film-02/episode-1-original/index.m3u8",
+        "duration": 106.19
+      }
+    ],
+    "placeholder": false
+  },
+  {
+    "id": "film-03",
+    "order": 3,
+    "title": "绮境国",
+    "subtitle": "镜花缘 · AI 动画剧集",
+    "image": "/assets/film-03/frame-30.webp",
+    "gallery": [
+      "/assets/film-03/frame-00.webp",
+      "/assets/film-03/frame-01.webp",
+      "/assets/film-03/frame-02.webp",
+      "/assets/film-03/frame-03.webp",
+      "/assets/film-03/frame-04.webp",
+      "/assets/film-03/frame-05.webp",
+      "/assets/film-03/frame-06.webp",
+      "/assets/film-03/frame-07.webp",
+      "/assets/film-03/frame-08.webp",
+      "/assets/film-03/frame-09.webp",
+      "/assets/film-03/frame-10.webp",
+      "/assets/film-03/frame-11.webp",
+      "/assets/film-03/frame-12.webp",
+      "/assets/film-03/frame-13.webp",
+      "/assets/film-03/frame-14.webp",
+      "/assets/film-03/frame-15.webp",
+      "/assets/film-03/frame-16.webp",
+      "/assets/film-03/frame-17.webp",
+      "/assets/film-03/frame-18.webp",
+      "/assets/film-03/frame-19.webp",
+      "/assets/film-03/frame-20.webp",
+      "/assets/film-03/frame-21.webp",
+      "/assets/film-03/frame-22.webp",
+      "/assets/film-03/frame-23.webp",
+      "/assets/film-03/frame-24.webp",
+      "/assets/film-03/frame-25.webp",
+      "/assets/film-03/frame-26.webp",
+      "/assets/film-03/frame-27.webp",
+      "/assets/film-03/frame-28.webp",
+      "/assets/film-03/frame-29.webp",
+      "/assets/film-03/frame-30.webp",
+      "/assets/film-03/frame-31.webp",
+      "/assets/film-03/frame-32.webp",
+      "/assets/film-03/frame-33.webp",
+      "/assets/film-03/frame-34.webp",
+      "/assets/film-03/frame-35.webp",
+      "/assets/film-03/frame-36.webp",
+      "/assets/film-03/frame-37.webp",
+      "/assets/film-03/frame-38.webp",
+      "/assets/film-03/frame-39.webp",
+      "/assets/film-03/frame-40.webp",
+      "/assets/film-03/frame-41.webp",
+      "/assets/film-03/frame-42.webp",
+      "/assets/film-03/frame-43.webp",
+      "/assets/film-03/frame-44.webp",
+      "/assets/film-03/frame-45.webp",
+      "/assets/film-03/frame-46.webp",
+      "/assets/film-03/frame-47.webp",
+      "/assets/film-03/frame-48.webp",
+      "/assets/film-03/frame-49.webp",
+      "/assets/film-03/frame-50.webp",
+      "/assets/film-03/frame-51.webp"
+    ],
+    "description": "绮境国 · 镜花缘 AI 动画剧集\n绮境之间，照见人心。改编自清代李汝珍古典名著《镜花缘》，以地貌迥异、风俗独特的诸国构成，一地一国皆映射一类人心执念与当代人生困境：攀比的虚无、完美主义的疲惫、渴求认同的焦虑、求而不得的执念枷锁。\n\n第一集《大人国》：对抗世俗标签与标准化规训，撕掉外界固化评价，探寻不被定义的真我。\n第二集《小人国》：以寓言隐喻网络舆论场，拆解匿名网暴的虚妄幻象，传递清醒克制的自省力量。\n\n获奖荣誉\n2026.09｜第四届上海国际 AIGC 创作大赛 AI 漫剧赛道・最佳国潮创意奖\n2026.09｜创意无界・全民 AI 创作大赛・评委推荐奖\n2026.07｜HKAIDA 香港 AI 艺术创作大赛・银奖\n2026.06｜米兰国际艺术奖・金奖",
+    "videos": [
+      {
+        "title": "第1集",
+        "src": "/api/media/film-03/episode-1-original/index.m3u8",
+        "duration": 313.72
+      },
+      {
+        "title": "第2集",
+        "src": "/api/media/film-03/episode-2-original/index.m3u8",
+        "duration": 383.73
+      }
+    ],
+    "placeholder": false
+  },
+  {
+    "id": "film-04",
+    "order": 4,
+    "title": "华夏光影展",
+    "subtitle": "沉浸式数字光影展 · 视频预演",
+    "image": "/assets/film-04/frame-00.webp",
+    "gallery": [
+      "/assets/film-04/frame-00.webp",
+      "/assets/film-04/frame-01.webp",
+      "/assets/film-04/frame-02.webp",
+      "/assets/film-04/frame-03.webp",
+      "/assets/film-04/frame-04.webp",
+      "/assets/film-04/frame-05.webp",
+      "/assets/film-04/frame-06.webp",
+      "/assets/film-04/frame-07.webp",
+      "/assets/film-04/frame-08.webp",
+      "/assets/film-04/frame-09.webp",
+      "/assets/film-04/frame-10.webp",
+      "/assets/film-04/frame-11.webp",
+      "/assets/film-04/frame-12.webp",
+      "/assets/film-04/frame-13.webp",
+      "/assets/film-04/frame-14.webp",
+      "/assets/film-04/frame-15.webp",
+      "/assets/film-04/frame-16.webp",
+      "/assets/film-04/frame-17.webp",
+      "/assets/film-04/frame-18.webp",
+      "/assets/film-04/frame-19.webp"
+    ],
+    "description": "华夏光影展｜辽陈国公主墓主题沉浸式数字光影展 AIGC 视频预演\n    以辽代陈国公主墓为文化内核，为沉浸式数字光影展制作 AIGC 预演视频。提取辽代金银器、面具、契丹游牧美学等文化符号，通过 AIGC 生成空间画面、光影特效，完成分镜与后期合成，预演展厅沉浸式视觉叙事，还原辽代贵族的历史氛围感。",
+    "videos": [
+      {
+        "title": "完整影片",
+        "src": "/api/media/film-04/episode-1-original/index.m3u8",
+        "duration": 221.01
+      }
+    ],
+    "placeholder": false
+  },
+  {
+    "id": "film-05",
+    "order": 5,
+    "title": "星海归途",
+    "subtitle": "沉浸式球幕 · AI 视频预演",
+    "image": "/assets/film-05/frame-04.webp",
+    "gallery": [
+      "/assets/film-05/frame-00.webp",
+      "/assets/film-05/frame-01.webp",
+      "/assets/film-05/frame-02.webp",
+      "/assets/film-05/frame-03.webp",
+      "/assets/film-05/frame-04.webp",
+      "/assets/film-05/frame-05.webp",
+      "/assets/film-05/frame-06.webp",
+      "/assets/film-05/frame-07.webp",
+      "/assets/film-05/frame-08.webp",
+      "/assets/film-05/frame-09.webp",
+      "/assets/film-05/frame-10.webp",
+      "/assets/film-05/frame-11.webp",
+      "/assets/film-05/frame-12.webp"
+    ],
+    "description": "《星海归途：一株石斛的太空漫游》｜沉浸式球幕视听\n本项目为青白江在地沉浸式球幕作品，主要负责AI 视频预演制作。\n故事以一株石斛的星际漫游为叙事主线，将青白江两大城市名片 —— 国际铁路港、全球最大石斛种质中心自然融合，打通陆地商贸通道与太空生命探索两条叙事线。以诗意的球幕视听语言，串联起本土生物种质价值与对外开放的城市特质，打造兼具在地性、科幻感与人文温度的沉浸式体验。",
+    "videos": [
+      {
+        "title": "完整影片",
+        "src": "/api/media/film-05/episode-1-original/index.m3u8",
+        "duration": 116.33
+      }
+    ],
+    "placeholder": false
+  },
+  {
+    "id": "film-06",
+    "order": 6,
+    "title": "深空远征 — 火星",
+    "subtitle": "成都 SoReal · MR 视频预演",
+    "image": "/assets/film-06/frame-10.webp",
+    "gallery": [
+      "/assets/film-06/frame-00.webp",
+      "/assets/film-06/frame-01.webp",
+      "/assets/film-06/frame-02.webp",
+      "/assets/film-06/frame-03.webp",
+      "/assets/film-06/frame-04.webp",
+      "/assets/film-06/frame-05.webp",
+      "/assets/film-06/frame-06.webp",
+      "/assets/film-06/frame-07.webp",
+      "/assets/film-06/frame-08.webp",
+      "/assets/film-06/frame-09.webp",
+      "/assets/film-06/frame-10.webp",
+      "/assets/film-06/frame-11.webp",
+      "/assets/film-06/frame-12.webp",
+      "/assets/film-06/frame-13.webp"
+    ],
+    "description": "《深空远征 —— 火星》\n为落地于成都双流的 MR 沉浸式体验项目，基于整套项目故事线与 MR 交互逻辑，使用 AI 生成技术完成全游玩链路的MR 虚拟场景预演。在项目前期，对玩家行进动线、空间画面、光影氛围、镜头节奏、关键交互节点进行可视化预演输出，快速验证 MR 空间叙事、画面效果与沉浸节奏，为后续 MR 内容开发、现场调试、方案评审提供直观的视觉参考。",
+    "videos": [
+      {
+        "title": "完整影片",
+        "src": "/api/media/film-06/episode-1-original/index.m3u8",
+        "duration": 275.46
+      }
+    ],
+    "placeholder": false,
+    "menuTitle": "成都 SoReal"
+  },
+  {
+    "id": "film-07",
+    "order": 7,
+    "title": "首钢 SoReal",
+    "subtitle": "VR / MR · UGC 创意预演",
+    "image": "/assets/film-07/frame-02.webp",
+    "gallery": [
+      "/assets/film-07/frame-00.webp",
+      "/assets/film-07/frame-01.webp",
+      "/assets/film-07/frame-02.webp",
+      "/assets/film-07/frame-03.webp",
+      "/assets/film-07/frame-04.webp",
+      "/assets/film-07/frame-05.webp",
+      "/assets/film-07/frame-06.webp",
+      "/assets/film-07/frame-07.webp",
+      "/assets/film-07/frame-08.webp",
+      "/assets/film-07/frame-09.webp",
+      "/assets/film-07/frame-10.webp",
+      "/assets/film-07/frame-11.webp",
+      "/assets/film-07/frame-12.webp",
+      "/assets/film-07/frame-13.webp"
+    ],
+    "description": "首钢 SoReal VR MR 线上 UGC 创作项目\n本项目为首钢 SoReal 空间内容升级开发，聚焦 VR 视觉效果迭代与 MR 线上 UGC 创作玩法落地。我主要负责项目前期创意预演，借助 AI 视频完成效果可视化，提前验证 VR 画面质感、MR 虚实融合效果以及 UGC 交互创作的视觉呈现方案，为后续内容开发、镜头节奏与沉浸效果评估提供直观参考。",
+    "videos": [
+      {
+        "title": "完整影片",
+        "src": "/api/media/film-07/episode-1-original/index.m3u8",
+        "duration": 183.83
+      }
+    ],
+    "placeholder": false
+  },
+  {
+    "id": "film-08",
+    "order": 8,
+    "title": "数字人 Shiny",
+    "subtitle": "虚拟偶像 · 音乐 MV",
+    "image": "/assets/film-08/frame-08.webp",
+    "gallery": [
+      "/assets/film-08/frame-00.webp",
+      "/assets/film-08/frame-01.webp",
+      "/assets/film-08/frame-02.webp",
+      "/assets/film-08/frame-03.webp",
+      "/assets/film-08/frame-04.webp",
+      "/assets/film-08/frame-05.webp",
+      "/assets/film-08/frame-06.webp",
+      "/assets/film-08/frame-07.webp",
+      "/assets/film-08/frame-08.webp",
+      "/assets/film-08/frame-09.webp",
+      "/assets/film-08/frame-10.webp",
+      "/assets/film-08/frame-11.webp",
+      "/assets/film-08/frame-12.webp",
+      "/assets/film-08/frame-13.webp",
+      "/assets/film-08/frame-14.webp",
+      "/assets/film-08/frame-15.webp",
+      "/assets/film-08/frame-16.webp",
+      "/assets/film-08/frame-17.webp",
+      "/assets/film-08/frame-18.webp"
+    ],
+    "description": "数字人 Shiny 音乐 MV   本项目为公司自研数字人音乐 MV，主打虚拟偶像视听内容创作。负责全案视觉落地，完成数字人 Shiny 角色形象设计、场景美术搭建、画面风格把控与成片视频制作，结合音乐节奏设计镜头叙事，打造完整数字人音乐视觉 MV。",
+    "videos": [
+      {
+        "title": "完整影片",
+        "src": "/api/media/film-08/episode-1-original/index.m3u8",
+        "duration": 157.18
+      }
+    ],
+    "placeholder": false
+  }
+]

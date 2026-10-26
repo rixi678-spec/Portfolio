@@ -1,0 +1,18 @@
+[
+  {
+    "id": "cockpit-components",
+    "src": "/assets/concepts/lunar/cockpit-components.webp",
+    "preview": "/assets/concepts/lunar/cockpit-components.webp",
+    "width": 3168,
+    "height": 1344,
+    "caption": "驾驶舱 · 屏幕、控制台与舱体元素拆解"
+  },
+  {
+    "id": "cable-car-components",
+    "src": "/assets/concepts/lunar/cable-car-components-v2.webp",
+    "preview": "/assets/concepts/lunar/cable-car-components-v2.webp",
+    "width": 2741,
+    "height": 1530,
+    "caption": "悬浮缆车 · 主资产与机械结构拆解"
+  }
+]

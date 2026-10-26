@@ -1,0 +1,200 @@
+[
+  {
+    "width": 4096,
+    "group": "mj",
+    "height": 2304,
+    "src": "/assets/concepts/kuaishou/asset-0.webp",
+    "name": "1 (1)"
+  },
+  {
+    "width": 1456,
+    "group": "mj",
+    "height": 816,
+    "src": "/assets/concepts/kuaishou/asset-1.webp",
+    "name": "1",
+    "preview": "/assets/concepts/kuaishou/asset-1-preview.webp"
+  },
+  {
+    "width": 2912,
+    "group": "mj",
+    "height": 1632,
+    "src": "/assets/concepts/kuaishou/asset-2.webp",
+    "name": "123josh__High-angle_birds-eye_view_macro_perspective_main_key_v_7f228904-c875-446f-810d-6825713e3571",
+    "preview": "/assets/concepts/kuaishou/asset-2-preview.webp"
+  },
+  {
+    "width": 2912,
+    "group": "mj",
+    "height": 1632,
+    "src": "/assets/concepts/kuaishou/asset-3.webp",
+    "name": "123josh__High-angle_birds-eye_view_macro_perspective_main_key_v_9daf4de6-5c2c-4f90-93b7-dc08e6784540",
+    "preview": "/assets/concepts/kuaishou/asset-3-preview.webp"
+  },
+  {
+    "width": 2912,
+    "group": "mj",
+    "height": 1632,
+    "src": "/assets/concepts/kuaishou/asset-4.webp",
+    "name": "d6ba3663baf11a1ed0175c0f820f0b0b",
+    "preview": "/assets/concepts/kuaishou/asset-4-preview.webp"
+  },
+  {
+    "width": 5504,
+    "group": "mj",
+    "height": 3072,
+    "src": "/assets/concepts/kuaishou/asset-5.webp",
+    "name": "Image 38",
+    "preview": "/assets/concepts/kuaishou/asset-5-preview.webp"
+  },
+  {
+    "width": 2752,
+    "group": "mj",
+    "height": 1536,
+    "src": "/assets/concepts/kuaishou/asset-6.webp",
+    "name": "Image 52",
+    "preview": "/assets/concepts/kuaishou/asset-6-preview.webp"
+  },
+  {
+    "width": 4096,
+    "group": "第一版",
+    "height": 2303,
+    "src": "/assets/concepts/kuaishou/asset-7.webp",
+    "name": "1"
+  },
+  {
+    "width": 3840,
+    "group": "第一版",
+    "height": 2160,
+    "src": "/assets/concepts/kuaishou/asset-8.webp",
+    "name": "3",
+    "preview": "/assets/concepts/kuaishou/asset-8-preview.webp"
+  },
+  {
+    "width": 5504,
+    "group": "第一版",
+    "height": 3072,
+    "src": "/assets/concepts/kuaishou/asset-9.webp",
+    "name": "线稿",
+    "preview": "/assets/concepts/kuaishou/asset-9-preview.webp"
+  },
+  {
+    "width": 2752,
+    "group": "第一版",
+    "height": 1536,
+    "src": "/assets/concepts/kuaishou/asset-10.webp",
+    "name": "Image 1",
+    "preview": "/assets/concepts/kuaishou/asset-10-preview.webp"
+  },
+  {
+    "width": 4096,
+    "group": "第二版",
+    "height": 2304,
+    "src": "/assets/concepts/kuaishou/asset-11.webp",
+    "name": "背景",
+    "preview": "/assets/concepts/kuaishou/asset-11-preview.webp"
+  },
+  {
+    "width": 2730,
+    "group": "第二版",
+    "height": 1536,
+    "src": "/assets/concepts/kuaishou/asset-12.webp",
+    "name": "黑白线稿",
+    "preview": "/assets/concepts/kuaishou/asset-12-preview.webp"
+  },
+  {
+    "width": 4096,
+    "group": "第二版",
+    "height": 2286,
+    "src": "/assets/concepts/kuaishou/asset-13.webp",
+    "name": "终版",
+    "preview": "/assets/concepts/kuaishou/asset-13-preview.webp"
+  },
+  {
+    "width": 2752,
+    "group": "第二版",
+    "height": 1536,
+    "src": "/assets/concepts/kuaishou/asset-14.webp",
+    "name": "Image 55",
+    "preview": "/assets/concepts/kuaishou/asset-14-preview.webp"
+  },
+  {
+    "width": 2752,
+    "group": "元素",
+    "height": 1536,
+    "src": "/assets/concepts/kuaishou/asset-15.webp",
+    "name": "金色装置 黑色背景",
+    "preview": "/assets/concepts/kuaishou/asset-15-preview.webp"
+  },
+  {
+    "width": 5483,
+    "group": "元素",
+    "height": 3060,
+    "src": "/assets/concepts/kuaishou/asset-16.webp",
+    "name": "快手logo",
+    "preview": "/assets/concepts/kuaishou/asset-16-preview.webp"
+  },
+  {
+    "width": 673,
+    "group": "元素",
+    "height": 732,
+    "src": "/assets/concepts/kuaishou/asset-17.webp",
+    "name": "人物和快手",
+    "preview": "/assets/concepts/kuaishou/asset-17-preview.webp"
+  },
+  {
+    "width": 803,
+    "group": "元素",
+    "height": 744,
+    "src": "/assets/concepts/kuaishou/asset-18.webp",
+    "name": "人物角色",
+    "preview": "/assets/concepts/kuaishou/asset-18-preview.webp"
+  },
+  {
+    "width": 2730,
+    "group": "元素",
+    "height": 1536,
+    "src": "/assets/concepts/kuaishou/asset-19.webp",
+    "name": "外环 黑色背景",
+    "preview": "/assets/concepts/kuaishou/asset-19-preview.webp"
+  },
+  {
+    "width": 2752,
+    "group": "元素",
+    "height": 1536,
+    "src": "/assets/concepts/kuaishou/asset-20.webp",
+    "name": "元素拆解图",
+    "preview": "/assets/concepts/kuaishou/asset-20-preview.webp"
+  },
+  {
+    "width": 2752,
+    "group": "风格拓展",
+    "height": 1536,
+    "src": "/assets/concepts/kuaishou/asset-21.webp",
+    "name": "快手游戏冬季雪景场景",
+    "preview": "/assets/concepts/kuaishou/asset-21-preview.webp"
+  },
+  {
+    "width": 2752,
+    "group": "风格拓展",
+    "height": 1536,
+    "src": "/assets/concepts/kuaishou/asset-22.webp",
+    "name": "快手游戏古代中国场景",
+    "preview": "/assets/concepts/kuaishou/asset-22-preview.webp"
+  },
+  {
+    "width": 2752,
+    "group": "风格拓展",
+    "height": 1536,
+    "src": "/assets/concepts/kuaishou/asset-23.webp",
+    "name": "快手游戏未来科技场景",
+    "preview": "/assets/concepts/kuaishou/asset-23-preview.webp"
+  },
+  {
+    "width": 2752,
+    "group": "风格拓展",
+    "height": 1536,
+    "src": "/assets/concepts/kuaishou/asset-24.webp",
+    "name": "快手游戏夏日海滩场景",
+    "preview": "/assets/concepts/kuaishou/asset-24-preview.webp"
+  }
+]

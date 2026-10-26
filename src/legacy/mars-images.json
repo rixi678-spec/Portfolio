@@ -1,0 +1,29 @@
+[
+  {
+    "height": 768,
+    "source": "G:\\西西日\\zp\\hcy\\7.png",
+    "src": "/assets/concepts/mars/piano.webp",
+    "width": 1536,
+    "preview": "/assets/concepts/mars/piano-preview.webp",
+    "caption": "海上钢琴 · 日出情绪世界",
+    "id": "mars-piano"
+  },
+  {
+    "height": 3072,
+    "source": "G:\\西西日\\zp\\hcy\\10_upscayl_4x_realesrgan-x4plus.png",
+    "src": "/assets/concepts/mars/castle.webp",
+    "width": 6144,
+    "preview": "/assets/concepts/mars/castle-preview.webp",
+    "caption": "幽灵城堡 · 夜场情绪世界",
+    "id": "mars-castle"
+  },
+  {
+    "height": 1084,
+    "source": "G:\\西西日\\zp\\hcy\\73eb9832d991d91ff2219632be2a601.png",
+    "src": "/assets/concepts/mars/process.webp",
+    "width": 1814,
+    "preview": "/assets/concepts/mars/process-preview.webp",
+    "caption": "制作过程 · 训练、探索与合成",
+    "id": "mars-process"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "ritual-elements",
+    "src": "/assets/concepts/cultural-kv/ritual-elements.webp",
+    "preview": "/assets/concepts/cultural-kv/ritual-elements.webp",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "id": "character-elements",
+    "src": "/assets/concepts/cultural-kv/character-elements.webp",
+    "preview": "/assets/concepts/cultural-kv/character-elements.webp",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "id": "star-stones",
+    "src": "/assets/concepts/cultural-kv/star-stones.webp",
+    "preview": "/assets/concepts/cultural-kv/star-stones-preview.webp",
+    "width": 12407,
+    "height": 3223
+  },
+  {
+    "id": "character-poster",
+    "src": "/assets/concepts/cultural-kv/character-poster.webp",
+    "preview": "/assets/concepts/cultural-kv/character-poster-preview.webp",
+    "width": 3072,
+    "height": 5504
+  },
+  {
+    "id": "ritual-poster",
+    "src": "/assets/concepts/cultural-kv/ritual-poster.webp",
+    "preview": "/assets/concepts/cultural-kv/ritual-poster-preview.webp",
+    "width": 3072,
+    "height": 5504
+  },
+  {
+    "id": "lettering-horizontal",
+    "src": "/assets/concepts/cultural-kv/lettering-horizontal.webp",
+    "preview": "/assets/concepts/cultural-kv/lettering-horizontal.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "lettering-vertical",
+    "src": "/assets/concepts/cultural-kv/lettering-vertical.webp",
+    "preview": "/assets/concepts/cultural-kv/lettering-vertical.webp",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "taierzhuang-1",
+    "src": "/assets/concepts/cultural-kv/taierzhuang-1.webp",
+    "width": 939,
+    "height": 1676
+  },
+  {
+    "id": "taierzhuang-2",
+    "src": "/assets/concepts/cultural-kv/taierzhuang-2.webp",
+    "width": 934,
+    "height": 1685
+  }
+]

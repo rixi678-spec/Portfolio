@@ -1,0 +1,74 @@
+[
+  {
+    "id": "feathers-aerial",
+    "source": "G:/发布会.library/images/MAK5FJETXG8YB.info/Clipboard - 2025-05-12 05.11.20.png",
+    "caption": "星河之羽 · 光的阵列",
+    "src": "/assets/concepts/desert/feathers-aerial.webp",
+    "preview": "/assets/concepts/desert/feathers-aerial.webp",
+    "width": 1280,
+    "height": 640
+  },
+  {
+    "id": "feathers-space",
+    "source": "G:/发布会.library/images/MAK5CMS20FG40.info/Clipboard - 2025-05-12 05.09.04.png",
+    "caption": "星河之羽 · 沉浸空间",
+    "src": "/assets/concepts/desert/feathers-space.webp",
+    "preview": "/assets/concepts/desert/feathers-space.webp",
+    "width": 1280,
+    "height": 641
+  },
+  {
+    "id": "oasis",
+    "source": "G:/发布会.library/images/MVDV4H4LA0VJW.info/骆驼队与阿联酋男人结构调整.png",
+    "caption": "沙海绿洲 · 文明回响",
+    "src": "/assets/concepts/desert/oasis.webp",
+    "preview": "/assets/concepts/desert/oasis.webp",
+    "width": 1376,
+    "height": 768
+  },
+  {
+    "id": "opening-light",
+    "source": "G:/发布会.library/images/MVDUBVNJRMMJ8.info/Clipboard - 2026-10-18 21.07.45.png",
+    "caption": "序章 · 光的启示",
+    "src": "/assets/concepts/desert/opening-light.webp",
+    "preview": "/assets/concepts/desert/opening-light.webp",
+    "width": 1039,
+    "height": 543
+  },
+  {
+    "id": "opening-boy",
+    "source": "G:/发布会.library/images/MVDUL49GTBDKF.info/阿联酋小男孩头巾调整.png",
+    "caption": "序章 · 凝望",
+    "src": "/assets/concepts/desert/opening-boy.webp",
+    "preview": "/assets/concepts/desert/opening-boy.webp",
+    "width": 1376,
+    "height": 768
+  },
+  {
+    "id": "opening-walk",
+    "source": "G:/发布会.library/images/MVDUKI6RKZHHR.info/3.png",
+    "caption": "序章 · 走向旷野",
+    "src": "/assets/concepts/desert/opening-walk.webp",
+    "preview": "/assets/concepts/desert/opening-walk.webp",
+    "width": 1678,
+    "height": 937
+  },
+  {
+    "id": "traveler",
+    "source": "G:/发布会.library/images/MVDUAB4CINSA2.info/白色头巾版本.png",
+    "caption": "荒漠旅人 · 古老低语",
+    "src": "/assets/concepts/desert/traveler.webp",
+    "preview": "/assets/concepts/desert/traveler.webp",
+    "width": 1376,
+    "height": 768
+  },
+  {
+    "id": "caravan",
+    "source": "G:/西西日/zp/新建文件夹/4.png",
+    "caption": "商队远行 · 金沙天幕",
+    "src": "/assets/concepts/desert/caravan.webp",
+    "preview": "/assets/concepts/desert/caravan.webp",
+    "width": 1678,
+    "height": 937
+  }
+]

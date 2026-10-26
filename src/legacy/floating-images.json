@@ -1,0 +1,98 @@
+[
+  {
+    "id": "floating-01",
+    "preview": "/assets/concepts/floating-theatre/01.webp",
+    "height": 887,
+    "src": "/assets/concepts/floating-theatre/01.webp",
+    "caption": "环形舞台 · 齿轮、舞者与结构拆解",
+    "width": 1774
+  },
+  {
+    "id": "floating-02",
+    "preview": "/assets/concepts/floating-theatre/02.webp",
+    "height": 939,
+    "src": "/assets/concepts/floating-theatre/02.webp",
+    "caption": "光栅舞台 · 表演者与灯光装置拆解",
+    "width": 1675
+  },
+  {
+    "id": "floating-03",
+    "preview": "/assets/concepts/floating-theatre/03.webp",
+    "height": 939,
+    "src": "/assets/concepts/floating-theatre/03.webp",
+    "caption": "对话空间 · 双人舞与空间单元拆解",
+    "width": 1674
+  },
+  {
+    "id": "floating-04",
+    "preview": "/assets/concepts/floating-theatre/04.webp",
+    "height": 887,
+    "src": "/assets/concepts/floating-theatre/04.webp",
+    "caption": "悬浮芭蕾 · 圆环与机械结构拆解",
+    "width": 1774
+  },
+  {
+    "id": "floating-05",
+    "preview": "/assets/concepts/floating-theatre/05.webp",
+    "height": 939,
+    "src": "/assets/concepts/floating-theatre/05.webp",
+    "caption": "数字光幕 · 舞者与蓝色影像拆解",
+    "width": 1675
+  },
+  {
+    "id": "floating-06",
+    "preview": "/assets/concepts/floating-theatre/06.webp",
+    "height": 887,
+    "src": "/assets/concepts/floating-theatre/06.webp",
+    "caption": "垂直群像 · 舞台平台与人物拆解",
+    "width": 1774
+  },
+  {
+    "id": "floating-1",
+    "preview": "/assets/concepts/floating-theatre/1.webp",
+    "height": 887,
+    "src": "/assets/concepts/floating-theatre/1.webp",
+    "caption": "环形舞台 · 光与机械的重力场",
+    "width": 1774
+  },
+  {
+    "id": "floating-2",
+    "preview": "/assets/concepts/floating-theatre/2.webp",
+    "height": 939,
+    "src": "/assets/concepts/floating-theatre/2.webp",
+    "caption": "光栅舞台 · 悬浮中的身体叙事",
+    "width": 1674
+  },
+  {
+    "id": "floating-3",
+    "preview": "/assets/concepts/floating-theatre/3.webp",
+    "height": 939,
+    "src": "/assets/concepts/floating-theatre/3.webp",
+    "caption": "对话空间 · 舞者之间的距离",
+    "width": 1675
+  },
+  {
+    "id": "floating-4",
+    "preview": "/assets/concepts/floating-theatre/4.webp",
+    "height": 887,
+    "src": "/assets/concepts/floating-theatre/4.webp",
+    "caption": "悬浮芭蕾 · 失重的机械剧场",
+    "width": 1774
+  },
+  {
+    "id": "floating-5",
+    "preview": "/assets/concepts/floating-theatre/5.webp",
+    "height": 939,
+    "src": "/assets/concepts/floating-theatre/5.webp",
+    "caption": "数字光幕 · 身体与影像共生",
+    "width": 1676
+  },
+  {
+    "id": "floating-6",
+    "preview": "/assets/concepts/floating-theatre/6.webp",
+    "height": 887,
+    "src": "/assets/concepts/floating-theatre/6.webp",
+    "caption": "垂直群像 · 多层空间中的舞蹈",
+    "width": 1774
+  }
+]

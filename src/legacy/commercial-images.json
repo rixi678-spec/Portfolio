@@ -1,0 +1,66 @@
+[
+  {
+    "caption": "快手游戏 · 新春玩家狂欢节 · 最终主视觉",
+    "preview": "/assets/concepts/commercial/kuaishou-final-preview.webp",
+    "src": "/assets/concepts/commercial/kuaishou-final.webp",
+    "height": 3215,
+    "id": "kuaishou-final",
+    "width": 5760
+  },
+  {
+    "caption": "快手游戏 · 视觉元素与构图线稿",
+    "preview": "/assets/concepts/commercial/kuaishou-process-preview.webp",
+    "src": "/assets/concepts/commercial/kuaishou-process.webp",
+    "height": 4571,
+    "id": "kuaishou-process",
+    "width": 2730
+  },
+  {
+    "caption": "快手游戏 · 户外大屏与活动现场效果",
+    "preview": "/assets/concepts/commercial/kuaishou-live-preview.webp",
+    "src": "/assets/concepts/commercial/kuaishou-live.webp",
+    "height": 3048,
+    "id": "kuaishou-live",
+    "width": 2730
+  },
+  {
+    "caption": "快手游戏 · 其他延伸版本",
+    "preview": "/assets/concepts/commercial/kuaishou-variants-preview.webp",
+    "src": "/assets/concepts/commercial/kuaishou-variants.webp",
+    "height": 4571,
+    "id": "kuaishou-variants",
+    "width": 2730
+  },
+  {
+    "caption": "美团 · 芭乐摩天轮",
+    "preview": "/assets/concepts/commercial/meituan-guava-preview.webp",
+    "src": "/assets/concepts/commercial/meituan-guava.webp",
+    "height": 2048,
+    "id": "meituan-guava",
+    "width": 1536
+  },
+  {
+    "caption": "美团 · 荔枝水上乐园",
+    "preview": "/assets/concepts/commercial/meituan-lychee-preview.webp",
+    "src": "/assets/concepts/commercial/meituan-lychee.webp",
+    "height": 2048,
+    "id": "meituan-lychee",
+    "width": 1536
+  },
+  {
+    "caption": "美团 · 芒果旋转木马",
+    "preview": "/assets/concepts/commercial/meituan-mango-preview.webp",
+    "src": "/assets/concepts/commercial/meituan-mango.webp",
+    "height": 2048,
+    "id": "meituan-mango",
+    "width": 1536
+  },
+  {
+    "caption": "美团 · 青柠清凉滑道",
+    "preview": "/assets/concepts/commercial/meituan-lime-preview.webp",
+    "src": "/assets/concepts/commercial/meituan-lime.webp",
+    "height": 2048,
+    "id": "meituan-lime",
+    "width": 1536
+  }
+]

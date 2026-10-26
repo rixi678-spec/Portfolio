@@ -1,0 +1,105 @@
+[
+  {
+    "id": "seat-front",
+    "source": "G:/发布会.library/images/MMANWIRQV7VWQ.info/驾驶舱座位正面面对镜头.png",
+    "src": "/assets/concepts/lunar/seat-front-cutout.webp",
+    "caption": "驾驶座椅 · 正面",
+    "originalSrc": "/assets/concepts/lunar/seat-front-original.webp",
+    "editedWith": "imagegen",
+    "preview": "/assets/concepts/lunar/seat-front-cutout.webp",
+    "width": 1926,
+    "height": 817
+  },
+  {
+    "id": "seat-side",
+    "source": "G:/发布会.library/images/MMANWIRQH12R9.info/驾驶舱座位侧面提取.png",
+    "src": "/assets/concepts/lunar/seat-side-cutout.webp",
+    "caption": "驾驶座椅 · 侧面",
+    "originalSrc": "/assets/concepts/lunar/seat-side-original.webp",
+    "editedWith": "imagegen",
+    "preview": "/assets/concepts/lunar/seat-side-cutout.webp",
+    "width": 1926,
+    "height": 817
+  },
+  {
+    "id": "cockpit-ui",
+    "source": "G:/发布会.library/images/MMANY6R1VWJY3.info/宇宙飞船驾驶舱纯白屏幕.png",
+    "src": "/assets/concepts/lunar/cockpit-ui-original.webp",
+    "caption": "驾驶舱 · UI 白屏底图",
+    "originalSrc": "/assets/concepts/lunar/cockpit-ui-original.webp",
+    "preview": "/assets/concepts/lunar/cockpit-ui-preview.webp",
+    "width": 3168,
+    "height": 1344
+  },
+  {
+    "id": "cockpit-layers",
+    "source": "G:/发布会.library/images/MMAS6M1ORVQCZ.info/宇宙飞船驾驶舱拆解图层效果.png",
+    "src": "/assets/concepts/lunar/cockpit-layers-cutout.webp",
+    "caption": "驾驶舱 · 结构分层",
+    "originalSrc": "/assets/concepts/lunar/cockpit-layers-original.webp",
+    "editedWith": "imagegen",
+    "preview": "/assets/concepts/lunar/cockpit-layers-cutout.webp",
+    "width": 1925,
+    "height": 817
+  },
+  {
+    "id": "eco-exploded",
+    "source": "G:/西西日/zp/新建文件夹/1.png",
+    "src": "/assets/concepts/lunar/eco-exploded-v2.webp",
+    "caption": "生态培育舱 · 结构拆解",
+    "originalSrc": "/assets/concepts/lunar/eco-exploded-original.webp",
+    "preview": "/assets/concepts/lunar/eco-exploded-v2.webp",
+    "width": 1678,
+    "height": 937
+  },
+  {
+    "id": "eco-pods",
+    "source": "G:/西西日/zp/新建文件夹/2.png",
+    "src": "/assets/concepts/lunar/eco-pods-v2.webp",
+    "caption": "生态培育舱 · 组合形态",
+    "originalSrc": "/assets/concepts/lunar/eco-pods-original.webp",
+    "preview": "/assets/concepts/lunar/eco-pods-v2.webp",
+    "width": 1678,
+    "height": 937
+  },
+  {
+    "id": "hangar-sphere",
+    "source": "G:/发布会.library/images/MM90UPO03I4ND.info/Spherical Dome Vehicle Gray Background.png",
+    "src": "/assets/concepts/lunar/hangar-sphere-original.webp",
+    "caption": "球形载具 · 侧视",
+    "originalSrc": "/assets/concepts/lunar/hangar-sphere-original.webp",
+    "preview": "/assets/concepts/lunar/hangar-sphere-preview.webp",
+    "width": 2752,
+    "height": 1536
+  },
+  {
+    "id": "hangar-engine",
+    "source": "G:/发布会.library/images/MM90UPNZ9QKV2.info/Cylindrical Engine Gray Background.png",
+    "src": "/assets/concepts/lunar/hangar-engine-original.webp",
+    "caption": "工业引擎 · 机械结构",
+    "originalSrc": "/assets/concepts/lunar/hangar-engine-original.webp",
+    "preview": "/assets/concepts/lunar/hangar-engine-preview.webp",
+    "width": 2752,
+    "height": 1536
+  },
+  {
+    "id": "hangar-front",
+    "source": "G:/发布会.library/images/MM90VPUTXCV2P.info/Image 6.jpg",
+    "src": "/assets/concepts/lunar/hangar-front-original.webp",
+    "caption": "球形载具 · 正视",
+    "originalSrc": "/assets/concepts/lunar/hangar-front-original.webp",
+    "preview": "/assets/concepts/lunar/hangar-front-preview.webp",
+    "width": 2752,
+    "height": 1536
+  },
+  {
+    "id": "underground-layers",
+    "source": "G:/发布会.library/images/MMI4B8ZVMV2XB.info/地下月球基地元素拆解图 (1).png",
+    "src": "/assets/concepts/lunar/underground-layers-original.webp",
+    "caption": "地下中庭 · 元素拆解",
+    "originalSrc": "/assets/concepts/lunar/underground-layers-original.webp",
+    "preview": "/assets/concepts/lunar/underground-layers-preview.webp",
+    "width": 2752,
+    "height": 1536
+  }
+]
